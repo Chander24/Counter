@@ -1,0 +1,7 @@
+C:\Users\Chandler\source\repos\DeathCounterReset\bin\Debug\DeathCounterReset.exe.config
+C:\Users\Chandler\source\repos\DeathCounterReset\bin\Debug\DeathCounterReset.exe
+C:\Users\Chandler\source\repos\DeathCounterReset\bin\Debug\DeathCounterReset.pdb
+C:\Users\Chandler\source\repos\DeathCounterReset\obj\Debug\DeathCounter.csprojAssemblyReference.cache
+C:\Users\Chandler\source\repos\DeathCounterReset\obj\Debug\DeathCounter.csproj.CoreCompileInputs.cache
+C:\Users\Chandler\source\repos\DeathCounterReset\obj\Debug\DeathCounterReset.exe
+C:\Users\Chandler\source\repos\DeathCounterReset\obj\Debug\DeathCounterReset.pdb
